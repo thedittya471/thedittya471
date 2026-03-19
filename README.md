@@ -1,3 +1,9 @@
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+</div>
+
+
 <img align="left" src="https://i.pinimg.com/1200x/37/0f/e9/370fe9f34f9a03835b33bda4cc78dc07.jpg" width="320"/>
 
 ```csharp
