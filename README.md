@@ -40,8 +40,9 @@ Tools:
 <img src="https://streak-stats.demolab.com?user=thedittya471&theme=tokyonight&hide_border=true&card_width=700" alt="GitHub Streak" />
 </p>
 
-<!-- Isometric calendar will render here once GitHub Actions workflow runs -->
-<!-- <p align="center"><img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Isometric Commit Calendar" /></p> -->
+<p align="center">
+<img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Isometric Commit Calendar" />
+</p>
 
 
 <p align="center">
