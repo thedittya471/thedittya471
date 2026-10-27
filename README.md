@@ -45,21 +45,25 @@
     <td valign="top" width="600">
       <h3>Programming Languages</h3>
       <p>
-        <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++">
-        <img width="48" height="48" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python">
-        <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript">
-        <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript">
-        <img width="48" height="48" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML">
-        <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS">
+        <img width="36" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++">
+        <img width="36" height="36" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python">
+        <img width="36" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript">
+        <img width="36" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript">
+        <img width="36" height="36" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML">
+        <img width="36" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS">
       </p>
     </td>
     <td valign="top" width="600">
       <h3>Database & Services</h3>
       <p>
-        <img width="48" height="48" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB">
-        <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL">
-        <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis">
-        <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL">
+        <img width="36" height="36" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB">
+        <img width="36" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL">
+        <img width="36" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis">
+        <img width="36" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL">
+        <img width="36" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker">
+        <img width="36" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes">
+        <img width="36" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain.svg" alt="AWS">
+        <img width="36" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure">
       </p>
     </td>
   </tr>
@@ -67,25 +71,23 @@
     <td valign="top" width="600">
       <h3>Frameworks & Libraries</h3>
       <p>
-        <img width="48" height="48" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js">
-        <img width="48" height="48" src="./assets/icons/express.svg" alt="Express">
-        <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trpc/trpc-original.svg" alt="tRPC">
+        <img width="36" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React">
+        <img width="36" height="36" src="./assets/icons/nextjs.svg" alt="Next.js">
+        <img width="36" height="36" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js">
+        <img width="36" height="36" src="./assets/icons/express.svg" alt="Express">
+        <img width="36" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trpc/trpc-original.svg" alt="tRPC">
       </p>
     </td>
     <td valign="top" width="600">
       <h3>Tools & Platforms</h3>
       <p>
-        <img width="48" height="48" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git">
-        <img width="48" height="48" src="./assets/icons/github.svg" alt="GitHub">
-        <img width="48" height="48" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman">
-        <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code">
-        <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker">
-        <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes">
-        <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain.svg" alt="AWS">
-        <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure">
-        <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux">
-        <img width="48" height="48" src="./assets/icons/bash.svg" alt="bash">
-        <img width="48" height="48" src="./assets/icons/zsh.svg" alt="zsh">
+        <img width="36" height="36" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git">
+        <img width="36" height="36" src="./assets/icons/github.svg" alt="GitHub">
+        <img width="36" height="36" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman">
+        <img width="36" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code">
+        <img width="36" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux">
+        <img width="36" height="36" src="./assets/icons/bash.svg" alt="bash">
+        <img width="36" height="36" src="./assets/icons/zsh.svg" alt="zsh">
       </p>
     </td>
   </tr>
