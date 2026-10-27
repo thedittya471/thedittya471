@@ -105,7 +105,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/thedittya471">
-    <img height="180em" src="https://github-readme-stats-fast-rose.vercel.app/api?username=thedittya471&show=contributions&number_format=long&show_icons=true&hide_border=true&theme=dark&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+    <img height="180em" src="https://github-readme-stats-fast-rose.vercel.app/api?username=thedittya471&v=c518ac2&show=contributions&number_format=long&show_icons=true&hide_border=true&theme=dark&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true&cache_seconds=1800"/>
   </a>
   <a href="https://github.com/thedittya471">
     <img height="180em" src="https://github-readme-stats-fast-rose.vercel.app/api/top-langs/?username=thedittya471&text_color=FFFFFF&bg_color=000000&theme=dark&title_color=94b4a4&langs_count=8&layout=compact&hide_border=true&cache_seconds=1800"/>
