@@ -36,44 +36,57 @@
 
 <details open>
 <summary>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Technology Stack</b>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" alt="Code"> <b>Technology Stack</b>
 </summary>
 <br>
 
-<table>
+<table width="100%">
   <tr>
     <td valign="top" width="50%">
-      <h4>Programming Languages</h4>
+      <h3>Programming Languages</h3>
       <p>
-        <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"></code>
-        <code><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python"></code>
-        <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript"></code>
+        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"></code>
+        <code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python"></code>
+        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript"></code>
+        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript"></code>
+        <code><img height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML"></code>
+        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS"></code>
       </p>
-      <p>Currently learning: DevOps and distributed systems</p>
-      <h4>Web Development</h4>
-      <p>
-        <code><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML"></code>
-        <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS"></code>
-        <code><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js"></code>
-        <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express"></code>
-      </p>
-      <p>REST APIs · tRPC</p>
     </td>
     <td valign="top" width="50%">
-      <h4>Databases</h4>
+      <h3>Database & Services</h3>
       <p>
-        <code><img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB"></code>
-        <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"></code>
-        <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis"></code>
+        <code><img height="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB"></code>
+        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"></code>
+        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis"></code>
+        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"></code>
       </p>
-      <h4>Tools & Platforms</h4>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Frameworks & Libraries</h3>
       <p>
-        <code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"></code>
-        <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub"></code>
-        <code><img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"></code>
-        <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code"></code>
+        <code><img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js"></code>
+        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express"></code>
+        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trpc/trpc-original.svg" alt="tRPC"></code>
       </p>
-      <p>Linux basics · zsh · bash</p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Tools & Platforms</h3>
+      <p>
+        <code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"></code>
+        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub"></code>
+        <code><img height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"></code>
+        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code"></code>
+        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"></code>
+        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes"></code>
+        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"></code>
+        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure"></code>
+        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"></code>
+        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash"></code>
+        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zsh/zsh-original.svg" alt="zsh"></code>
+      </p>
     </td>
   </tr>
 </table>
