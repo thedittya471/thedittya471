@@ -42,50 +42,50 @@
 
 <table width="100%">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="600">
       <h3>Programming Languages</h3>
       <p>
-        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"></code>
-        <code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python"></code>
-        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript"></code>
-        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript"></code>
-        <code><img height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML"></code>
-        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS"></code>
+        <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++">
+        <img width="48" height="48" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python">
+        <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript">
+        <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript">
+        <img width="48" height="48" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML">
+        <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS">
       </p>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="600">
       <h3>Database & Services</h3>
       <p>
-        <code><img height="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB"></code>
-        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"></code>
-        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis"></code>
-        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"></code>
+        <img width="48" height="48" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB">
+        <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL">
+        <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis">
+        <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL">
       </p>
     </td>
   </tr>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="600">
       <h3>Frameworks & Libraries</h3>
       <p>
-        <code><img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js"></code>
-        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express"></code>
-        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trpc/trpc-original.svg" alt="tRPC"></code>
+        <img width="48" height="48" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js">
+        <img width="48" height="48" src="./assets/icons/express.svg" alt="Express">
+        <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trpc/trpc-original.svg" alt="tRPC">
       </p>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="600">
       <h3>Tools & Platforms</h3>
       <p>
-        <code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"></code>
-        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub"></code>
-        <code><img height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"></code>
-        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code"></code>
-        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"></code>
-        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes"></code>
-        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"></code>
-        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure"></code>
-        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"></code>
-        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash"></code>
-        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zsh/zsh-original.svg" alt="zsh"></code>
+        <img width="48" height="48" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git">
+        <img width="48" height="48" src="./assets/icons/github.svg" alt="GitHub">
+        <img width="48" height="48" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman">
+        <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code">
+        <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker">
+        <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes">
+        <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain.svg" alt="AWS">
+        <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure">
+        <img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux">
+        <img width="48" height="48" src="./assets/icons/bash.svg" alt="bash">
+        <img width="48" height="48" src="./assets/icons/zsh.svg" alt="zsh">
       </p>
     </td>
   </tr>
@@ -103,16 +103,16 @@
 <br>
 <div align="center">
   <a href="https://github.com/thedittya471">
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=thedittya471&show_icons=true&hide_border=true&theme=dark&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+    <img height="180em" src="https://github-readme-stats-fast-rose.vercel.app/api?username=thedittya471&show_icons=true&hide_border=true&theme=dark&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true&cache_seconds=1800"/>
   </a>
   <a href="https://github.com/thedittya471">
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thedittya471&text_color=FFFFFF&bg_color=000000&theme=dark&title_color=94b4a4&langs_count=8&layout=compact&hide_border=true&cache_seconds=1800"/>
+    <img height="180em" src="https://github-readme-stats-fast-rose.vercel.app/api/top-langs/?username=thedittya471&text_color=FFFFFF&bg_color=000000&theme=dark&title_color=94b4a4&langs_count=8&layout=compact&hide_border=true&cache_seconds=1800"/>
   </a>
 </div>
 <br>
 <div align="center">
   <a href="https://github.com/thedittya471">
-    <img width="70%" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=thedittya471&show_icons=true&theme=dark&hide_border=true&background=000000&ring=94b4a4&fire=94b4a4&currStreakLabel=94b4a4"/>
+    <img width="70%" src="https://github-readme-stats-fast-rose.vercel.app/api/streak/?username=thedittya471&show_icons=true&theme=dark&hide_border=true&background=000000&ring=94b4a4&fire=94b4a4&currStreakLabel=94b4a4"/>
   </a>
 </div>
 <br>
